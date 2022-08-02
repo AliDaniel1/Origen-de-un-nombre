@@ -18,13 +18,15 @@ form{
     margin: 20px;
 }
 .Container{
+    width: 320px;
+    height: 400px;
     padding: 25px;
     background: #fff;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    border-radius: 10px;
+    border-radius: 12px;
 }
 .Info h1{
     padding: 20px;
